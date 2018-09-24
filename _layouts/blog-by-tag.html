@@ -16,7 +16,7 @@ Articles tagged with <strong>‘#{{ page.name }}’</strong>
 
 {% if site.tags[page.slug] %}
     {% for post in site.tags[page.slug] %}
-
+<comment>
       {% assign currentdate = post.date | date: "%Y/%m" %}
         {% if currentdate != date %}
           {% unless forloop.first %}
@@ -30,9 +30,9 @@ Articles tagged with <strong>‘#{{ page.name }}’</strong>
           <li>
             <a href="{{ post.url | prepend: site.baseurl }}">
             <span>{{ post.title }}</span>
-            
+            <small>{{ post.date | date: "%d/%m" }}</small>
             </a>
-          </li>
+          </li></comment>
 
           {% if forloop.last %}
           </ul>
