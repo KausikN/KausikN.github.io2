@@ -2,8 +2,7 @@
 layout: post
 title: My Interests
 tags:
-  - Interests
-  - Fan
+
 hero: https://source.unsplash.com/collection/345758/
 overlay: orange
 ---
