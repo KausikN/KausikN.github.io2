@@ -5,8 +5,8 @@ url                          : "" # the base hostname & protocol for your site
                                   # `http://<username>.github.io` - for GitHub
 
 blog:
-  title                      : kausik N
-  description                  : >Web Portfolio of N.Kausik, BTech CS Student, IIITDM Kanchipuram
+  title                      : Kausik N
+  description                : Web Portfolio of N.Kausik, BTech CS Student, IIITDM Kanchipuram
                                this should contain a proper description
 
 # Layout configuration
