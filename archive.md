@@ -8,7 +8,7 @@ sitemap:
 ---
 # Contact Me
 <div class="page">
-<a href="https://www.facebook.com/kausik.narayanan">Facebook</a>
-<a href="https://www.github.com/KausikN">Github</a>
-<a href="https://www.youtube.com/KausikN">Youtube</a>
+<a href="https://www.facebook.com/kausik.narayanan">Facebook</a><br>
+<a href="https://www.github.com/KausikN">Github</a><br>
+<a href="https://www.youtube.com/KausikN">Youtube</a><br>
 </div>
