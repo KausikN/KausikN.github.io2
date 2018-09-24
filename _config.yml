@@ -1,12 +1,12 @@
 # Base blog settings
-baseurl                      : "/dactl/" # the subpath of your site,                         # e.g. /blog/
+baseurl                      : "" # the subpath of your site,                         # e.g. /blog/
                               # set to '' in case of hosting on GitHub
 url                          : "" # the base hostname & protocol for your site
                                   # `http://<username>.github.io` - for GitHub
 
 blog:
-  title                      : dactl
-  description                  : >
+  title                      : kausik N
+  description                  : >Web Portfolio of N.Kausik, BTech CS Student, IIITDM Kanchipuram
                                this should contain a proper description
 
 # Layout configuration
@@ -26,14 +26,14 @@ blog:
 
 # Author info
 author:
-  fullname                  : Your Name
+  fullname                  : Kausik N
   rss                       : true # generate RSS feed and show it's icon in header
-  mail                      : your@email.com # change to your e-mail address
-  twitter                   : twitter-user-name
-  github                    : github-user-name
-  youtube                   : youtube-user-name
-  stackoverflow             : stackoverflow-user-name
-  disqus                    : dactl # your disqus site name
+  mail                      : Coe17b010@iiitdm.ac.in # change to your e-mail address
+  twitter                   : KausikN
+  github                    : KausikN
+  youtube                   : KausikN
+  stackoverflow             : KausikN
+  disqus                    : # your disqus site name
   google_analytics          : # 'UA-XXXXXXXX-X'
   photo                     : "uploads/me2.png"
   photo2x                   : "uploads/me.png"
