@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contact Me
-permalink: /archive/
+permalink: /contactme/
 weight: 5
 sitemap:
   priority: 0.9
