@@ -7,7 +7,7 @@ url                          : "" # the base hostname & protocol for your site
 blog:
   title                      : Kausik N
   description                : Web Portfolio of N.Kausik, BTech CS Student, IIITDM Kanchipuram
-                               this should contain a proper description
+                             
 
 # Layout configuration
   logo_path                  : "assets/img/dactl.svg" # path to logo file
