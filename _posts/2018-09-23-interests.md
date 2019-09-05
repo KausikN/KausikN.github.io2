@@ -9,4 +9,4 @@ overlay: orange
 {: .lead}
 I too, like most people am a huge fan of...
 <!–-break-–>
-the Marvel Cinematic Universe, Harry Potter, Lord of the Rings and basically any other major movie franchise. I love movies and gaming. I am fascinated by Game Development and i love learning how to develop games using softwares like Unity.
+the Marvel Cinematic Universe, Harry Potter, Lord of the Rings and basically any other major movie franchise. I love movies and gaming and animations. I am fascinated by Game Development and Animation Development and i love learning how to develop games and animations using softwares like Unity, Unreal Engine and Blender.
